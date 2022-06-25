@@ -1,0 +1,98 @@
+Potion, Herb,
+Mega Potion, Potion, Honey
+First-aid Med+, First-aid Med, Honey
+Antidote, Antidote Herb,
+Herbal Medicine, Antidote, Blue Mushroom
+Nutrients, Bitterbug, Blue Mushroom
+Mega Nutrients, Nutrients, Honey
+Max Potion, Mega Nutrients, Mandragora
+Catalyst, Bitterbug, Honey
+Immunizer, Catalyst, Mandragora
+Ancient Potion, Immunizer, Kelbi Horn
+Ancient Potion, Nourishing Extract, Kelbi Horn
+Lifepowder, Godbug, Blue Mushroom
+Herbal Powder, Godbug, Herbal Medicine
+Energy Drink, Nitroshroom, Honey
+Cool Drink, Chillshroom,
+Dash Juice, Catalyst, Dash Extract
+Demondrug, Catalyst, Might Seed
+Mega Demondrug, Nourishing Extract, Demondrug
+Demon Powder, Godbug, Might Seed
+Might Pill, Immunizer, Might Seed
+Armorskin, Catalyst, Adamant Seed
+Mega Armorskin, Nourishing Extract, Armorskin
+Hardshell Powder, Godbug, Adamant Seed
+Adament Pill, Immunizer, Adamant Seed
+Farcaster, Smokenut, Exciteshroom
+Gunpowder, Fire Herb, Nitroshroom
+Barrel Bomb, Fire Herb, Small Barrel
+Bounce Bomb, Nitroshroom, Small Barrel
+Mega Bounce Bomb, Nitroshroom, Bounce Bomb
+Large Barrel Bomb, Gunpowder, Large Barrel
+Mega Barrel Bomb, Devil's Blight, Large Barrel Bomb
+Mega Barrel Bomb, Gunpowderfish Scale, Large Barrel Bomb
+Mega Barrel Bomb, Great Gunpowderfish Scale, Large Barrel
+Smoke Bomb, Smokenut, Ivy
+Poison Smoke Bomb, Smokenut, Toadstool
+Flash Pod, Flashbug,
+Screamer Pod, Screamer Sec,
+Dung Pod, Dung,
+Dung Pod, Rolled-up Dung,
+Poisoned Meat, Raw Meat, Toadstool
+Tinged Meat, Raw Meat, Parashroom
+Drugged Meat, Raw Meat, Sleep Herb
+Net, Ivy, Spider Web
+Pitfall Trap, Trap Tool, Net
+Shock Trap, Trap Tool, Thunderbug
+Tranq Bomb, Sleep Herb, Parashroom
+Tranq Ammo, Normal Ammo 1, Tranq Bomb
+Tranq Knife, Throwing Knife, Tranq Bomb
+Poison Knife, Throwing Knife, Toadstool
+Sleep Knife, Throwing Knife, Sleeping Herb
+Paralysis Knife, Throwing Knife, Parashroom
+Power Coating, Empty Phial, Nitroshroom
+Poison Coating, Empty Phial, Toadstool
+Paralysis Coating, Empty Phial, Parashroom
+Sleep Coating, Empty Phial, Sleeping Herb
+Blast Coating, Empty Phial, Fire Herb
+Normal Ammo 2, Normal Ammo 1, Gunpowder Level 2
+Normal Ammo 3, Normal Ammo 1, Gunpowder Level 3
+Pierce Ammo 1, Latchberry,
+Pierce Ammo 2, Pierce Ammo 1, Gunpowder Level 2
+Pierce Ammo 3, Pierce Ammo 1, Gunpowder Level 3
+Spread Ammo 1, Needleberry,
+Spread Ammo 2, Spread Ammo 1, Gunpowder Level 2
+Spread Ammo 3, Spread Ammo 1, Gunpowder Level 3
+Sticky Ammo 1, Blastnut,
+Sticky Ammo 2, Sticky Ammo 1, Gunpowder Level 2
+Sticky Ammo 3, Sticky Ammo 1, Gunpowder Level 3
+Cluster Bomb 1, Bomberry,
+Cluster Bomb 2, Cluster Bomb 1, Gunpowder Level 2
+Cluster Bomb 3, Cluster Bomb 1, Gunpowder Level 3
+Slicing Ammo, Slashberry,
+Flamming Ammo, Normal Ammo 1, Fire Herb
+Water Ammo, Normal Ammo 1, Flowfern
+Thunder Ammo, Normal Ammo 1, Thunderbug
+Freeze Ammo, Normal Ammo 1, Snow Herb
+Dragon Ammo, Normal Ammo 1, Dragonfell Berry
+Poison Ammo 1, Normal Ammo 1, Toadstool
+Poison Ammo 2, Poison Ammo 1, Catalyst
+Paralysis Ammo 1, Normal Ammo 1, Parashroom
+Paralysis Ammo 2, Paralysis Ammo 1, Catalyst
+Sleep Ammo 1, Normal Ammo 1, Sleep Herb
+Sleep Ammo 2, Sleep Ammo 1, Catalyst
+Exhaust Ammo 1, Normal Ammo 1, Exciteshroom
+Exhaust Ammo 2, Exhaust Ammo 1, Catalyst
+Recover Ammo 1, Normal Ammo 1, Potion
+Recover Ammo 2, Recover Ammo 1, Catalyst
+Demon Ammo, Normal Ammo 1,	Demondrug
+Armor Ammo, Normal Ammo 1,	Armorskin
+Wyvern Ammo, Dragonstrike Nut,
+Gunpowder Level 2, Flamenut,
+Gunpowder Level 2, Burst Arowana Scale, Fire Herb
+Gunpowder Level 2, Great Burst Arowana Scale, Fire Herb
+Gunpowder Level 3, Blazenut,
+Gunpowder Level 3, Bomb Arowana Scale, Fire Herb
+Gunpowder Level 3, Great Bomb Arowana Scale, Fire Herb
+Powertalon, Powercharm, Bazelgeuse Talon
+Armortalon, Armorcharm, Bazelgeuse Talon

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/monsters"
+            android:icon="@drawable/monsters_icon"
+            android:title="@string/monsters"
+            android:checked="true"/>
+        <item
+            android:id="@+id/weapons"
+            android:icon="@drawable/weapon_icon"
+            android:title="@string/weapons" />
+        <item
+            android:id="@+id/armor"
+            android:icon="@drawable/armor_icon"
+            android:title="@string/armor" />
+        <item
+            android:id="@+id/quests"
+            android:icon="@drawable/quests_icon"
+            android:title="@string/quests" />
+        <item
+            android:id="@+id/items"
+            android:icon="@drawable/items_icon"
+            android:title="@string/items" />
+        <item
+            android:id="@+id/palicos"
+            android:icon="@drawable/palico_icon"
+            android:title="@string/palicos" />
+        <item
+            android:id="@+id/combinations"
+            android:icon="@drawable/combinations_icon"
+            android:title="@string/combinations" />
+        <item
+            android:id="@+id/locations"
+            android:icon="@drawable/locations_icon"
+            android:title="@string/locations" />
+        <item
+            android:id="@+id/decorations"
+            android:icon="@drawable/decorations_icon"
+            android:title="@string/decorations" />
+        <item
+            android:id="@+id/charms"
+            android:icon="@drawable/charms_icon"
+            android:title="@string/charms" />
+        <item
+            android:id="@+id/skills"
+            android:icon="@drawable/skills_icon"
+            android:title="@string/skills" />
+        <item
+            android:id="@+id/tools"
+            android:icon="@drawable/tools_icon"
+            android:title="@string/tools" />
+        <item
+            android:id="@+id/endemic_life"
+            android:icon="@drawable/life_icon"
+            android:title="@string/endemic_life" />
+        <item
+            android:id="@+id/food"
+            android:icon="@drawable/food_icon"
+            android:title="@string/food" />
+        <item
+            android:id="@+id/achievements"
+            android:icon="@drawable/achievements_icon"
+            android:title="@string/achievements" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_extras">
+        <item
+            android:id="@+id/damage_calc"
+            android:icon="@drawable/calc_icon"
+            android:title="@string/damage_calculator" />
+        <item
+            android:id="@+id/decoration_checklist"
+            android:icon="@drawable/checklist_icon"
+            android:title="@string/decoration_checklist" />
+        <item
+            android:id="@+id/set_builder"
+            android:icon="@drawable/builder_icon"
+            android:title="@string/set_builder" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_about">
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/about_icon"
+            android:title="@string/about" />
+    </group>
+
+</menu>

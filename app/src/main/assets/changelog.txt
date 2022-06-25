@@ -1,0 +1,8 @@
+Version 0.1
+Added basic UI
+Populated Skills, Mantles
+
+Planned:
+Add all data to database
+Do each tab
+It just takes time

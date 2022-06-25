@@ -1,0 +1,11 @@
+Created by Ryan Smith
+
+Thanks to:
+http://monsterhunter.wikia.com
+https://mhworld.kiranico.com/
+https://monsterhunterworld.wiki.fextralife.com/Monster+Hunter+World+Wiki
+
+Open Source Libraries
+Leak Canary - Provide website
+skyfishjy - for RecyclerCursorAdapter
+http://monsterhunter.wikia.com/wiki/Category:MHW_Monster_Icons for icons

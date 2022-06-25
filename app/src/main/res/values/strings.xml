@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MHW PC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MHWORLD</string>
+    <string name="nav_header_subtitle">DATABASE</string>
+    <string name="icon">Icon</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="monsters">Monsters</string>
+    <string name="weapons">Weapons</string>
+    <string name="armor">Armor</string>
+    <string name="quests">Quests</string>
+    <string name="items">Items</string>
+    <string name="palicos">Palicos</string>
+    <string name="combinations">Combinations</string>
+    <string name="locations">Locations</string>
+    <string name="decorations">Decorations</string>
+    <string name="charms">Charms</string>
+    <string name="skills">Skills</string>
+    <string name="tools">Hunter Tools</string>
+    <string name="endemic_life">Endemic Life</string>
+    <string name="food">Food</string>
+    <string name="achievements">Achievements</string>
+    <string name="damage_calculator">Damage Calculator</string>
+    <string name="decoration_checklist">Decoration Checklist</string>
+    <string name="set_builder">Set Builder</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+</resources>
